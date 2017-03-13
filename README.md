@@ -508,444 +508,430 @@ A collection of my Amazon Kindle highlights.
 
 * * *
 
-### Introduction: Bridging Learning Research and Teaching Practice
-
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT IS LEARNING? > Page 3 · Location 312
+### Introduction: Bridging Learning Research and Teaching Practice **Highlight(<span class="highlight_orange">orange</span>) - WHAT IS LEARNING? > Page 3 · Location 312
 
 <div class="noteText">we define learning as a process that leads to change, which occurs as a result of experience and increases the potential for improved performance and future learning</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT IS LEARNING? > Page 3 · Location 315
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT IS LEARNING? > Page 3 · Location 315
 
 <div class="noteText">process,</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT IS LEARNING? > Page 3 · Location 317
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT IS LEARNING? > Page 3 · Location 317
 
 <div class="noteText">change</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT IS LEARNING? > Page 3 · Location 319
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT IS LEARNING? > Page 3 · Location 319
 
 <div class="noteText">Learning is not something done to students, but rather something students themselves do.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - OUR PRINCIPLES OF LEARNING > Page 3 · Location 324
+**Highlight(<span class="highlight_orange">orange</span>) - OUR PRINCIPLES OF LEARNING > Page 3 · Location 324
 
 <div class="noteText">learning is a developmental process that intersects with other developmental processes in a student’s life,</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - OUR PRINCIPLES OF LEARNING > Page 4 · Location 325
+**Highlight(<span class="highlight_orange">orange</span>) - OUR PRINCIPLES OF LEARNING > Page 4 · Location 325
 
 <div class="noteText">but also with social and emotional experiences that influence what they value,</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - OUR PRINCIPLES OF LEARNING > Page 6 · Location 361
+**Highlight(<span class="highlight_orange">orange</span>) - OUR PRINCIPLES OF LEARNING > Page 6 · Location 361
 
 <div class="noteText">Students’ current level of development interacts with the social, emotional, and intellectual climate of the course to impact learning.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - OUR PRINCIPLES OF LEARNING > Page 6 · Location 365
+**Highlight(<span class="highlight_orange">orange</span>) - OUR PRINCIPLES OF LEARNING > Page 6 · Location 365
 
 <div class="noteText">that the climate we create has implications for our students.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - OUR PRINCIPLES OF LEARNING > Page 7 · Location 372
+**Highlight(<span class="highlight_orange">orange</span>) - OUR PRINCIPLES OF LEARNING > Page 7 · Location 372
 
 <div class="noteText">Unfortunately, students tend not to engage in these processes naturally.</div>
 
-### CHAPTER 1 How Does Students’ Prior Knowledge Affect Their Learning?
-
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT IS GOING ON IN THESE STORIES? > Page 12 · Location 449
+### CHAPTER 1 How Does Students’ Prior Knowledge Affect Their Learning? **Highlight(<span class="highlight_orange">orange</span>) - WHAT IS GOING ON IN THESE STORIES? > Page 12 · Location 449
 
 <div class="noteText">In Professor Dione’s case it is not what students do not know that hurts them but rather what they do know.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT PRINCIPLE OF LEARNING IS AT WORK HERE? > Page 12 · Location 459
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT PRINCIPLE OF LEARNING IS AT WORK HERE? > Page 12 · Location 459
 
 <div class="noteText">But sometimes—like Professor Won—we overestimate students’ prior knowledge and thus build new knowledge on a shaky foundation.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT PRINCIPLE OF LEARNING IS AT WORK HERE? > Page 13 · Location 463
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT PRINCIPLE OF LEARNING IS AT WORK HERE? > Page 13 · Location 463
 
 <div class="noteText">it is also important to recognize that not all prior knowledge provides an equally solid foundation for new learning.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT PRINCIPLE OF LEARNING IS AT WORK HERE? > Page 15 · Location 480
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT PRINCIPLE OF LEARNING IS AT WORK HERE? > Page 15 · Location 480
 
 <div class="noteText">Understanding what students know—or think they know—coming into our courses can help us design our instruction more appropriately.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 15 · Location 486
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 15 · Location 486
 
 <div class="noteText">there is widespread agreement among researchers that students must connect new knowledge to previous knowledge in order to learn</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 15 · Location 492
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 15 · Location 492
 
 <div class="noteText">new knowledge “sticks” better when it has prior knowledge to stick to.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 16 · Location 499
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 16 · Location 499
 
 <div class="noteText">it is important to help students activate prior knowledge so they can build on it productively.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 16 · Location 504
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 16 · Location 504
 
 <div class="noteText">with minor prompts and simple reminders, instructors can activate relevant prior knowledge so that students draw on it more effectively</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 17 · Location 513
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 17 · Location 513
 
 <div class="noteText">elaborative interrogation,</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 18 · Location 526
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 18 · Location 526
 
 <div class="noteText">instructors should not assume that students will immediately or naturally draw on relevant prior knowledge. Instead, they should deliberately activate students’ prior knowledge to help them forge robust links to new knowledge.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 18 · Location 534
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 18 · Location 534
 
 <div class="noteText">declarative knowledge, or the knowledge of facts and concepts that can be stated or declared. Declarative knowledge can be thought of as “knowing what.”</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 18 · Location 537
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 18 · Location 537
 
 <div class="noteText">procedural knowledge, because it involves knowing how and knowing when to apply various procedures, methods, theories, styles, or approaches.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 19 · Location 542
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 19 · Location 542
 
 <div class="noteText">research on science learning demonstrates that even when students can state scientific facts (for example, “Force equals mass times acceleration”), they are often weak at applying those facts to solve problems, interpret data, and draw conclusions</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 20 · Location 556
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 20 · Location 556
 
 <div class="noteText">it is critical to assess both the amount and nature of students’ prior knowledge so that we can design our instruction appropriately.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 20 · Location 562
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 20 · Location 562
 
 <div class="noteText">Several studies in statistics, for example, show how commonplace definitions of terms such as random and spread intrude in technical contexts, distorting students’ understandings of statistical concepts</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 20 · Location 569
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 20 · Location 569
 
 <div class="noteText">problems can arise when students do not recognize where the analogy breaks down or fail to see the limitations of a simple analogy for describing a complex phenomenon.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 22 · Location 591
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 22 · Location 591
 
 <div class="noteText">if Westerners interpret these practices through the lens of their own prior cultural knowledge and assumptions, they may emerge with a distorted understanding that can impede further learning.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 23 · Location 602
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 23 · Location 602
 
 <div class="noteText">undesirable) that were interfering with their comprehension. However, if Professor Dione had tried activating a different set of associations—namely of positive as adding and negative as subtracting—he may have been able to leverage those associations to help his students</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 23 · Location 609
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 23 · Location 609
 
 <div class="noteText">To help students learn where their prior knowledge is and is not applicable, it is important for instructors to (a) clearly explain the conditions and contexts of applicability, (b) teach abstract principles but also provide multiple examples and contexts, (c) point out differences, as well as similarities, when employing analogies, and (d) deliberately activate relevant prior knowledge to strengthen appropriate associations.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 24 · Location 620
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 24 · Location 620
 
 <div class="noteText">children—like all learners—try to make sense of what they are learning by fitting it into what they already know or believe.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 25 · Location 632
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 25 · Location 632
 
 <div class="noteText">Misconceptions are difficult to refute</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 25 · Location 646
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 25 · Location 646
 
 <div class="noteText">it is important to recognize that conceptual change often occurs gradually and may not be immediately visible.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 27 · Location 661
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 27 · Location 661
 
 <div class="noteText">students can be guided away from misconceptions through a process of reasoning that helps them build on the accurate facets of their knowledge as they gradually revise the inaccurate facets.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 27 · Location 664
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT PRIOR KNOWLEDGE? > Page 27 · Location 664
 
 <div class="noteText">It is important for instructors to address inaccurate prior knowledge that might otherwise distort or impede learning.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 28 · Location 678
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 28 · Location 678
 
 <div class="noteText">just because the material was taught does not mean that students necessarily learned it.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 28 · Location 689
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 28 · Location 689
 
 <div class="noteText">Concept inventories are ungraded tests, typically in a multiple-choice format, that are designed to include incorrect answers that help reveal common misconceptions.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 29 · Location 691
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 29 · Location 691
 
 <div class="noteText">A number of concept inventories have been widely used and have high validity and reliability.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 31 · Location 723
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 31 · Location 723
 
 <div class="noteText">Students’ misconceptions tend to be shared and produce a consistent pattern of errors.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 32 · Location 748
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 32 · Location 748
 
 <div class="noteText">Sometimes all it takes to activate students’ relevant prior knowledge is a slight prompt,</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 34 · Location 773
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 34 · Location 773
 
 <div class="noteText">Often instructors stop short of identifying all the background knowledge students need, so be sure to continue asking the question until you have fully identified the knowledge requirements for the tasks you have assigned. Be sure to differentiate declarative (knowing what and knowing why) from procedural knowledge (knowing how and knowing when), recognizing that just because students know facts or concepts does not mean they will know how to use them, and just because students know how to perform procedures does not mean that they understand what they are doing or why.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 34 · Location 781
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 34 · Location 781
 
 <div class="noteText">students. If only a few students lack important prerequisite knowledge, one option that might be open to you is simply to advise them against taking the course until they have the necessary background.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 38 · Location 836
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 38 · Location 836
 
 <div class="noteText">It is easier for students to fall back on deeply held misconceptions than to employ the reasoning necessary to overcome them. Therefore, when you are asking students to use new knowledge that requires a revision or rethinking of their prior knowledge, it can be helpful to minimize distractions and allow a little extra time.</div>
 
-### CHAPTER 2 How Does the Way Students Organize Knowledge Affect Their Learning?
-
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT KNOWLEDGE ORGANIZATION? > Page 48 · Location 957
+### CHAPTER 2 How Does the Way Students Organize Knowledge Affect Their Learning? **Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT KNOWLEDGE ORGANIZATION? > Page 48 · Location 957
 
 <div class="noteText">no organizational structure is necessarily better or more “correct” than another.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT KNOWLEDGE ORGANIZATION? > Page 48 · Location 957
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT KNOWLEDGE ORGANIZATION? > Page 48 · Location 957
 
 <div class="noteText">it is more appropriate to think of knowledge organizations as well or poorly matched to a given situation.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT KNOWLEDGE ORGANIZATION? > Page 53 · Location 1028
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT KNOWLEDGE ORGANIZATION? > Page 53 · Location 1028
 
 <div class="noteText">students who were asked to learn a long list of items (various minerals) performed 60 to 350 percent better when they were given category information to help them organize the items into a hierarchy</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT KNOWLEDGE ORGANIZATION? > Page 53 · Location 1034
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT KNOWLEDGE ORGANIZATION? > Page 53 · Location 1034
 
 <div class="noteText">when students are provided with an organizational structure in which to fit new knowledge, they learn more effectively and efficiently than when they are left to deduce this conceptual structure for themselves.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT KNOWLEDGE ORGANIZATION? > Page 54 · Location 1046
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT KNOWLEDGE ORGANIZATION? > Page 54 · Location 1046
 
 <div class="noteText">we cannot reasonably expect students to have organized their knowledge in equally sophisticated ways.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT KNOWLEDGE ORGANIZATION? > Page 54 · Location 1050
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT KNOWLEDGE ORGANIZATION? > Page 54 · Location 1050
 
 <div class="noteText">Novices not only have more sparse knowledge organizations compared to experts, but the basis for their organizational structures also tends to be superficial.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT KNOWLEDGE ORGANIZATION? > Page 56 · Location 1071
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT KNOWLEDGE ORGANIZATION? > Page 56 · Location 1071
 
 <div class="noteText">This is not a result of superior memory, but rather a reflection of the deep and intricate set of relationships they can see among pieces and that they automatically use during play.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT KNOWLEDGE ORGANIZATION? > Page 57 · Location 1096
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT KNOWLEDGE ORGANIZATION? > Page 57 · Location 1096
 
 <div class="noteText">students only showed this advantage when there was a relationship among the multiple facts that allowed students to make meaningful connections. Thus, the learning advantage did not apply when the multiple facts</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT KNOWLEDGE ORGANIZATION? > Page 58 · Location 1100
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT KNOWLEDGE ORGANIZATION? > Page 58 · Location 1100
 
 <div class="noteText">studies have shown that when students are given problems that are already solved and are asked to explain the solution to themselves—thereby focusing on the principles that guide the solution—they are better able to solve new problems</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT KNOWLEDGE ORGANIZATION? > Page 58 · Location 1108
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT KNOWLEDGE ORGANIZATION? > Page 58 · Location 1108
 
 <div class="noteText">we may organize our knowledge in a way that is quite different from how our students organize theirs, and that our knowledge organization plays a significant role in our “expert performance.”</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT KNOWLEDGE ORGANIZATION? > Page 58 · Location 1110
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT KNOWLEDGE ORGANIZATION? > Page 58 · Location 1110
 
 <div class="noteText">we need to provide students with appropriate organizing schemes or teach them how to abstract the relevant principles from what they are learning.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 60 · Location 1135
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 60 · Location 1135
 
 <div class="noteText">Do not assume that your students, especially those who are new to the content area, will see the logical organization of the material you are presenting.</div>
 
-### CHAPTER 3 What Factors Motivate Students to Learn?
-
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT PRINCIPLE OF LEARNING IS AT WORK HERE? > Page 69 · Location 1262
+### CHAPTER 3 What Factors Motivate Students to Learn? **Highlight(<span class="highlight_orange">orange</span>) - WHAT PRINCIPLE OF LEARNING IS AT WORK HERE? > Page 69 · Location 1262
 
 <div class="noteText">if students do not find the content of the course interesting or relevant, they may see little or no value in mastering it and may fail to engage in the behaviors required for deep learning.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT PRINCIPLE OF LEARNING IS AT WORK HERE? > Page 69 · Location 1263
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT PRINCIPLE OF LEARNING IS AT WORK HERE? > Page 69 · Location 1263
 
 <div class="noteText">if students do not expect to be successful in a course, they may disengage from the behaviors necessary for learning.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 70 · Location 1277
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 70 · Location 1277
 
 <div class="noteText">goals serve as the basic organizing feature of motivated behavior</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 71 · Location 1283
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 71 · Location 1283
 
 <div class="noteText">When considering the ways that our students’ goals influence their learning behaviors, it is worth noting that students’ goals for themselves may differ from our goals for them.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 71 · Location 1286
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 71 · Location 1286
 
 <div class="noteText">A more general form of mismatch often occurs when we want our students to pursue learning for its own sake but they are motivated primarily by performance goals</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 71 · Location 1288
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 71 · Location 1288
 
 <div class="noteText">desired self-image and projecting a positive reputation and public persona. When guided by performance goals, students are concerned with normative standards and try to do what is necessary to demonstrate competence in order to appear intelligent, gain status, and acquire recognition and praise.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 72 · Location 1292
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 72 · Location 1292
 
 <div class="noteText">Students with performance-avoidance goals, on the other hand, focus on avoiding incompetence by meeting standards.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 72 · Location 1296
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 72 · Location 1296
 
 <div class="noteText">When guided by learning goals, in contrast to performance goals, students try to gain competence and truly learn what an activity or task can teach them.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 72 · Location 1305
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 72 · Location 1305
 
 <div class="noteText">Work-avoidant goals (Meece & Holt, 1993), for example, involve the desire to finish work as quickly as possible with as little effort as possible.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 73 · Location 1316
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 73 · Location 1316
 
 <div class="noteText">if an activity satisfies more than one goal, the motivation to pursue that activity is likely to be higher than if it satisfies only one goal.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 74 · Location 1331
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 74 · Location 1331
 
 <div class="noteText">A goal’s importance, often referred to as its subjective value, is one of the key features influencing the motivation to pursue it.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 75 · Location 1338
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 75 · Location 1338
 
 <div class="noteText">attainment value, which represents the satisfaction that one gains from mastery and accomplishment of a goal or task.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 75 · Location 1341
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 75 · Location 1341
 
 <div class="noteText">intrinsic value, which represents the satisfaction that one gains simply from doing the task rather than from a particular outcome of the task.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 75 · Location 1346
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 75 · Location 1346
 
 <div class="noteText">instrumental value, represents the degree to which an activity or goal helps one accomplish other important goals, such as gaining what are traditionally referred to as extrinsic rewards.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 77 · Location 1380
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 77 · Location 1380
 
 <div class="noteText">student must not only believe that doing the assigned work can earn a passing grade, she must also believe that she is capable of doing the work necessary to earn a passing grade.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 79 · Location 1401
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 79 · Location 1401
 
 <div class="noteText">motivation and the effort and persistence that accompany it are highest among students who attribute successful performance to a combination of ability and effort, and poor performance to insufficient effort and inadequate information.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 80 · Location 1417
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MOTIVATION? > Page 80 · Location 1417
 
 <div class="noteText">is important to realize that we have three important levers (value, efficacy expectancies, and the supportive nature of the environment) with which we can influence motivation.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 86 · Location 1517
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 86 · Location 1517
 
 <div class="noteText">you might incorporate early, shorter assignments that account for a small percentage of the final grade but provide a sense of competence and confidence before you assign a larger project.</div>
 
-### CHAPTER 4 How Do Students Develop Mastery?
-
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT PRINCIPLE OF LEARNING IS AT WORK HERE? > Page 94 · Location 1623
+### CHAPTER 4 How Do Students Develop Mastery? **Highlight(<span class="highlight_orange">orange</span>) - WHAT PRINCIPLE OF LEARNING IS AT WORK HERE? > Page 94 · Location 1623
 
 <div class="noteText">To an experienced driver, driving is effortless and automatic, requiring little conscious awareness to do well. But for the novice driver it is complex and effortful, involving the conscious and gradual development of many distinct skills and abilities.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT PRINCIPLE OF LEARNING IS AT WORK HERE? > Page 95 · Location 1632
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT PRINCIPLE OF LEARNING IS AT WORK HERE? > Page 95 · Location 1632
 
 <div class="noteText">For students to achieve mastery within a domain, whether narrowly or broadly conceived, they need to develop a set of key component skills, practice them to the point where they can be combined fluently and used with a fair degree of automaticity, and know when and where to apply them appropriately</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 95 · Location 1641
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 95 · Location 1641
 
 <div class="noteText">Ironically, expertise can be a liability as well as an advantage when it comes to teaching. To</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 98 · Location 1669
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 98 · Location 1669
 
 <div class="noteText">For example, the way instructors chunk knowledge can make it difficult for them to break a skill down so that it is clear to students.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 99 · Location 1682
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 99 · Location 1682
 
 <div class="noteText">we can reduce the problems it poses for student learning by becoming more consciously aware of three particular elements of mastery that students must develop: (1) the acquisition of key component skills, (2) practice in integrating them effectively, and (3) knowledge of when to apply what they have learned.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 100 · Location 1700
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 100 · Location 1700
 
 <div class="noteText">In order to teach complex skills systematically—without missing pieces—instructors must be able to “unpack” or decompose complex tasks.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 102 · Location 1721
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 102 · Location 1721
 
 <div class="noteText">whole-task practice is preferable if the overall task is fairly simple or if components cannot be realistically extracted from the whole</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 105 · Location 1772
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 105 · Location 1772
 
 <div class="noteText">allow students to focus on one skill at a time, thus temporarily reducing their cognitive load and giving them the opportunity to develop fluency before they are required to integrate multiple skills.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 106 · Location 1785
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 106 · Location 1785
 
 <div class="noteText">scaffolding, whereby instructors temporarily relieve some of the cognitive load so that students can focus on particular dimensions of learning.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 106 · Location 1790
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 106 · Location 1790
 
 <div class="noteText">Research has shown that removing extraneous load—that is, aspects of a task that make it difficult to complete but that are unrelated to what students need to learn—is helpful.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 106 · Location 1791
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 106 · Location 1791
 
 <div class="noteText">reducing load that is germane to what students need to learn will naturally be counterproductive in that students will not have a chance to practice what they need to learn.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 107 · Location 1801
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 107 · Location 1801
 
 <div class="noteText">instructors should have reasonable expectations about the time and practice students will need, not only to develop fluency in component skills but also to learn to integrate those skills successfully.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 108 · Location 1818
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 108 · Location 1818
 
 <div class="noteText">transfer occurs neither often nor automatically, and (b) the more dissimilar the learning and transfer contexts, the less likely successful transfer will occur.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 108 · Location 1823
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 108 · Location 1823
 
 <div class="noteText">There are a number of reasons students may fail to transfer relevant knowledge and skills.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 108 · Location 1823
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 108 · Location 1823
 
 <div class="noteText">First, they may associate that knowledge too closely with the context in which they originally learned it and thus not think to apply it—or</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 109 · Location 1825
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 109 · Location 1825
 
 <div class="noteText">overspecificity or context dependence</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 109 · Location 1833
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 109 · Location 1833
 
 <div class="noteText">students may fail to transfer relevant skills, knowledge, or practices if they do not have a robust understanding of underlying principles and deep structure—in</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 110 · Location 1840
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 110 · Location 1840
 
 <div class="noteText">students are better able to transfer learning to new contexts when they can combine concrete experience within particular contexts and abstract knowledge that crosscuts contexts</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 111 · Location 1866
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH TELL US ABOUT MASTERY? > Page 111 · Location 1866
 
 <div class="noteText">A little prompting, in other words, can go a long way in helping students apply what they know.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 112 · Location 1881
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 112 · Location 1881
 
 <div class="noteText">“What would students have to know—or know how to do—in order to achieve what I am asking of them?”</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 114 · Location 1910
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 114 · Location 1910
 
 <div class="noteText">Rubrics that spell out your performance criteria for particular assignments can help students focus their cognitive resources where they best serve your learning objectives.</div>
 
-### CHAPTER 7 How Do Students Become Self-Directed Learners?
-
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT PRINCIPLE OF LEARNING IS AT WORK HERE? > Page 190 · Location 3021
+### CHAPTER 7 How Do Students Become Self-Directed Learners? **Highlight(<span class="highlight_orange">orange</span>) - WHAT PRINCIPLE OF LEARNING IS AT WORK HERE? > Page 190 · Location 3021
 
 <div class="noteText">Metacognition refers to “the process of reflecting on and directing one’s own thinking”</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT PRINCIPLE OF LEARNING IS AT WORK HERE? > Page 191 · Location 3030
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT PRINCIPLE OF LEARNING IS AT WORK HERE? > Page 191 · Location 3030
 
 <div class="noteText">Such skills arguably become more and more important at higher levels of education and in professional life as one takes on more complex tasks and greater responsibility for one’s own learning.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT PRINCIPLE OF LEARNING IS AT WORK HERE? > Page 191 · Location 3035
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT PRINCIPLE OF LEARNING IS AT WORK HERE? > Page 191 · Location 3035
 
 <div class="noteText">it is not surprising that one of the major intellectual challenges students face upon entering college is managing their own learning</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH ABOUT METACOGNITION TELL US? > Page 195 · Location 3079
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH ABOUT METACOGNITION TELL US? > Page 195 · Location 3079
 
 <div class="noteText">students may need to (1) learn how to assess the task, (2) practice incorporating this step into their planning before it will become a habit, and (3) receive feedback on the accuracy of their task assessment before they begin working on a given task.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH ABOUT METACOGNITION TELL US? > Page 195 · Location 3084
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH ABOUT METACOGNITION TELL US? > Page 195 · Location 3084
 
 <div class="noteText">Research has found that people in general have great difficulty recognizing their own strengths and weaknesses, and students appear to be especially poor judges of their own knowledge and skills.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH ABOUT METACOGNITION TELL US? > Page 197 · Location 3111
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH ABOUT METACOGNITION TELL US? > Page 197 · Location 3111
 
 <div class="noteText">experts spent proportionately much more time than novices planning their approach. Novices, conversely, spent almost no time planning and instead started each problem by applying various equations to try to find a solution.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH ABOUT METACOGNITION TELL US? > Page 198 · Location 3131
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH ABOUT METACOGNITION TELL US? > Page 198 · Location 3131
 
 <div class="noteText">good problem solvers were far more likely to monitor their understanding while they studied, that is, to continually stop themselves as they were reading to ask whether they were understanding the concepts just presented</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH ABOUT METACOGNITION TELL US? > Page 200 · Location 3152
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH ABOUT METACOGNITION TELL US? > Page 200 · Location 3152
 
 <div class="noteText">students will tend not to adopt newly learned strategies unless the perceived benefits clearly outweigh the perceived costs, especially the costs of effort and</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH ABOUT METACOGNITION TELL US? > Page 202 · Location 3196
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT DOES THE RESEARCH ABOUT METACOGNITION TELL US? > Page 202 · Location 3196
 
 <div class="noteText">students will often need our support in learning, refining, and effectively applying basic metacognitive skills.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 204 · Location 3215
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 204 · Location 3215
 
 <div class="noteText">For example, students in a design course might assume from previous experiences that the goal of any project is simply getting a finished product that they like. With this in mind, they might focus solely on the final design or presentation. However, if the instructor’s objective is for students to develop more sophisticated process skills (for example, researching relevant design ideas to spur their creativity, recording their exploration of multiple concepts, and explaining their design choices and revisions along the way to a final product), it may be necessary not only to express these goals explicitly but also to articulate what students need to do to meet the assignment’s objectives</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 207 · Location 3266
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 207 · Location 3266
 
 <div class="noteText">Remember that planning is extremely difficult for novices. As students gain experience, this kind of explicit modeling can be gradually removed and students can be required to develop and submit their own plan for approval.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 210 · Location 3304
+**Highlight(<span class="highlight_orange">orange</span>) - WHAT STRATEGIES DOES THE RESEARCH SUGGEST? > Page 210 · Location 3304
 
 <div class="noteText">peer review is generally only effective when you give student reviewers specific criteria about what to look for and comment on (for example, a set of questions to answer or a rubric to follow).</div>
 
-### Conclusion: Applying the Seven Principles to Ourselves
-
-#### Highlight(<span class="highlight_orange">orange</span>) - Page 217 · Location 3433
+### Conclusion: Applying the Seven Principles to Ourselves **Highlight(<span class="highlight_orange">orange</span>) - Page 217 · Location 3433
 
 <div class="noteText">One of the recurring strategies emphasized in this book involves collecting data about students to help inform our teaching practice.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - Page 217 · Location 3452
+**Highlight(<span class="highlight_orange">orange</span>) - Page 217 · Location 3452
 
 <div class="noteText">It also might mean that instead of making radical changes to a course, we attempt more incremental changes, reflecting on them as we go.</div>
 
-#### Highlight(<span class="highlight_orange">orange</span>) - Page 217 · Location 3456
+**Highlight(<span class="highlight_orange">orange</span>) - Page 217 · Location 3456
 
 <div class="noteText">the ability to facilitate productive and engaging discussions requires several subskills: the ability to pose appropriate questions, listen empathetically, maintain flow, respectfully correct misconceptions, manage time effectively, and many more.</div>

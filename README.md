@@ -20,7 +20,9 @@ permalink: /
 
 ### Introduction
 
-#### Highlight(<span class="highlight_orange">orange</span>) - Location 59 Just as Americans decided that college was essential, states began spending less on public higher education and the price of college rose. At the same time, the financial aid system, long intended to make college affordable, failed to keep up with growing student and family need. Student loans became the stopgap. And, to make matters worse, for nearly 80 percent of the public, family income declined.1
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 59
+
+Just as Americans decided that college was essential, states began spending less on public higher education and the price of college rose. At the same time, the financial aid system, long intended to make college affordable, failed to keep up with growing student and family need. Student loans became the stopgap. And, to make matters worse, for nearly 80 percent of the public, family income declined.1
 
 #### Highlight(<span class="highlight_orange">orange</span>) - Location 161 while spending grew slowly for the state’s need-based grant program, the Wisconsin Higher Education Grant, it covered less and less of the costs of college attendance.19 That was primarily because public colleges and universities were raising tuition and other costs in order to recover the lost monies from the state.
 

@@ -502,7 +502,7 @@ A collection of my Amazon Kindle highlights.
 
 <div class="noteText">Sixty percent of Americans aged twenty-five to sixty-four do not hold a college credential. But 22 percent of them—32.6 million Americans—have tried to get one.87</div>
 
-## How Learning Works: Seven Research-Based Principles for Smart Teaching
+## How Learning Works
 
 <div class="authors">Ambrose, Susan A.; Bridges, Michael W.; DiPietro, Michele; Lovett, Marsha C.; Norman, Marie K.</div>
 
@@ -948,4 +948,424 @@ A collection of my Amazon Kindle highlights.
 
 <div class="noteText">the ability to facilitate productive and engaging discussions requires several subskills: the ability to pose appropriate questions, listen empathetically, maintain flow, respectfully correct misconceptions, manage time effectively, and many more.</div>
 
-**
+## Invent To Learn: Making, Tinkering, and Engineering in the Classroom
+
+<div class="authors">Martinez, Sylvia Libow; Stager, Gary S.</div>
+
+* * *
+
+### Introduction
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 159
+
+<div class="noteText">“to understand is to invent”</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 179
+
+<div class="noteText">A new technology presented an invitation to play,</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 195
+
+<div class="noteText">For older students, making combines disciplines in ways that enhance the learning process for diverse student populations and opens the doors to unforeseen career paths.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 213
+
+<div class="noteText">The central thesis is that children should engage in tinkering and making because they are powerful ways to learn.</div>
+
+### Chapter 1 – An Insanely Brief and Incomplete History of Making
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 403
+
+<div class="noteText">constructivism. The learner constructs knowledge inside their head based on experience. Knowledge does not result from receipt of information transmitted by someone else without the learner undergoing an internal process of sense making.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 407
+
+<div class="noteText">What is needed at both the university and secondary level are teachers who indeed know their subject but who approach it from a constantly interdisciplinary point of view</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 415
+
+<div class="noteText">Every normal student is capable of good mathematical reasoning if attention is directed to activities of his interest,</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 417
+
+<div class="noteText">In most mathematical lessons the whole difference lies in the fact that the student is asked to accept from outside an already entirely organized intellectual discipline which he may or may not understand.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 428
+
+<div class="noteText">He viewed the process of education as continuous growth across a lifetime, resulting from personal motivation and resistant to external forces or what would later become known as behaviorism.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 430
+
+<div class="noteText">He advocated for students to be actively engaged in authentic interdisciplinary projects connected to the real world.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 435
+
+<div class="noteText">First, that the problem grows out of the conditions of the experience being had in the present, and that it is within the range of the capacity of students; and, secondly, that it is such that it arouses in the learner an active quest for information and for production of new ideas.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 496
+
+<div class="noteText">This new level of interactivity raised the roof on “personal” computing and sent the passion of the TMRC members skyrocketing through the stratosphere. The hackers would do anything necessary to learn more and increase access to “the machine.”</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 503
+
+<div class="noteText">Quickly a “Hacker Ethic” emerged that challenged seemingly arbitrary rules and artificially scarce computing resources. It included the following principles: “Access to computers –and anything that might teach you something about the way the world works –should be unlimited and total. Always yield to the Hands-On Imperative! Mistrust Authority –Promote Decentralization. Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race, or position. You can create art and beauty on a computer. Computers can change your life for the better.” (Levy, 2010)</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 527
+
+<div class="noteText">I fell in love with the gears. This is something that cannot be reduced to purely “cognitive” terms. Something very personal happened, and one cannot assume that it would be repeated for other children in exactly the same form. My thesis could be summarized as: What the gears cannot do the computer might. (Papert, 1980)</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 538
+
+<div class="noteText">Logo was developed as a language for making things and for learning powerful ideas while making things. To this day, versions of Logo, including Scratch, remain the most popular programming environments for children.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 545
+
+<div class="noteText">The phrase, “technology and education” usually means inventing new gadgets to teach the same old stuff in a thinly disguised version of the same old way. Moreover, if the gadgets are computers, the same old teaching becomes incredibly more expensive and biased towards its dumbest parts, namely the kind of rote learning in which measurable results can be obtained by treating the children like pigeons in a Skinner box. (Papert, 1972a)</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 573
+
+<div class="noteText">I, for one, believe the computer makes Dewey’s vision far more accessible epistemologically.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 590
+
+<div class="noteText">Papert developed the theory of constructionism and wrote three profound books about learning with computers, Mindstorms, The Children’s Machine, and The Connected Family.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 620
+
+<div class="noteText">Educational activities emerge from the interests of children, and the environment is “the third teacher,” after the parent and teacher.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 749
+
+<div class="noteText">Alan Kay’s adage that, “Technology is anything that wasn’t there when you were born.”</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 789
+
+<div class="noteText">Making lets you take control of your life, be more active, and be responsible for your own learning.</div>
+
+### Chapter 2 – Learning
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 812
+
+<div class="noteText">Constructivism is a well-established theory of learning indicating that people actively construct new knowledge by combining their experiences with what they already know.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 818
+
+<div class="noteText">Learning is often socially constructed. Talking and working with others is one of the best ways to cement new knowledge.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 825
+
+<div class="noteText">Although the learning happens inside the learner’s head, this happens most reliably when the learner is engaged in a personally meaningful activity outside of their head that makes the learning real and shareable.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 842
+
+<div class="noteText">Tinkering is a mindset –a playful way to approach and solve problems through direct experience, experimentation, and discovery.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 849
+
+<div class="noteText">“The IKEA Effect” in which people who make things value their creations, even flawed creations, more than the same things created perfectly by experts.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 900
+
+<div class="noteText">The object of the lesson was not to build a timer or to program a computer. The object was to empower children to use their brains and anything they could put their hands on to solve a problem.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 921
+
+<div class="noteText">“Computer as material” may be the most powerful idea we will explore in this book as we further develop the concepts of making, tinkering, and engineering in the classroom.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 927
+
+<div class="noteText">In most school activities, structure is valued over serendipity. Understanding is often “designed” by an adult committee prior to even meeting the students.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 930
+
+<div class="noteText">Too often, kids are hooked on teachers and teachers have a faith-based relationship with the textbook.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 931
+
+<div class="noteText">The reason for all this structure is not that it benefits the learner. In reality, it benefits the teacher-as-manager and the administrators in the system.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 933
+
+<div class="noteText">None of the constraints of school are for the benefit of learning –they create a more manageable, homogeneous, efficient platform for teaching a predetermined bit of content.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 937
+
+<div class="noteText">When we allow children to experiment, take risks, and play with their own ideas, we give them permission to trust themselves.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 988
+
+<div class="noteText">child. In play a child always behaves beyond his average age, above his daily behavior; in play it is as though he were a head taller than himself.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1012
+
+<div class="noteText">In the practice of design, the purpose is not to represent what is out there (or model how things are) but to imagine what is not (or envision how things could be) and to bring into existence what is imagined.</div>
+
+### Chapter 3 – Thinking About Thinking
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1065
+
+<div class="noteText">it’s the job of every teacher to learn how to watch children for signs of thinking, and to point that child in the direction of deeper learning. The early childhood educators of Reggio Emilia, Italy, teach us that the primary role of the teacher is as “researcher” whose job is to understand the thinking of each child.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1070
+
+<div class="noteText">Teachers should be concerned with making thinking visible, or making private thinking public. Making is a way of documenting the thinking of a learner in a shareable artifact. Stages of a project “under construction” offer important evidence of productive thinking or scaffolding opportunities.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1080
+
+<div class="noteText">learning as a transfer of thinking patterns does not work. When people learn, they construct knowledge based on what they already know and have experienced. This is context specific and different for each person.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1100
+
+<div class="noteText">Science is about wonder and risk and imagination, not checklists or vocabulary memorization. Alan Kay laments that much of what schools teach isn’t science at all, it’s science appreciation. (Kay,</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1116
+
+<div class="noteText">Too often, we teach as if all scientific problems are solved and the steps are fixed. It’s like teaching music theory without allowing children to hear or play actual music.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1128
+
+<div class="noteText">To design is to give form, or expression, to inner feelings and ideas, thus projecting them outwards, making them tangible.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1134
+
+<div class="noteText">Whether teaching writing, video production, or brainstorming a useful invention, it seems most efficient to provide students with step-by-step assistance, tools, and tricks to organize their thoughts and get to a finished product as quickly as possible. This well-intentioned support may in fact have the effect of stifling creativity and forcing students to create products that simply mirror the checklist they have been given.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1191
+
+<div class="noteText">In the classroom, iteration through multiple design cycles is useful and relevant. Not only is it more “real world” than linear methods, it matches the inclination of children to do something quickly rather than spend a lot of time planning.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1201
+
+<div class="noteText">Mitchel Resnick, LEGO Papert Professor of Learning Research and head of the Lifelong Kindergarten group at the MIT Media Lab where Scratch was developed, wrote a paper called All I Really Need to Know (About Creative Thinking) I Learned (By Studying How Children Learn) in Kindergarten.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1206
+
+<div class="noteText">spiraling process in which children imagine what they want to do, create a project based on their ideas, play with their creations, share their ideas and creations with others, reflect on their experiences –all of which leads them to imagine new ideas and new projects.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1223
+
+<div class="noteText">Having a reflective activity at the very end of a maker class to see what tips they would give to the next class is a great idea. However, we wouldn’t actually give those tips to the next class; the powerful part of that lesson is not the tips, it’s the reflection.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1238
+
+<div class="noteText">Classroom making is less concerned with producing a perfect product or finding one solution to a problem. We recognize that the deepest learning experiences may occur while en route to producing a product.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1252
+
+<div class="noteText">Polya may have been most elegant in reducing the problem-solving process to four steps. TMI has only three –Think, Make, Improve.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1279
+
+<div class="noteText">“I’m done” are two words you should never hear in the maker classroom! When a student (or team of students) thinks they are finished, they should seek opportunities to improve or refine their work.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1318
+
+<div class="noteText">Schools used to demand that students meet standards. But the time is coming when students will demand that schools live up to the standards of learning they have come to expect via their home computers. More and more young people learn independently and follow their own passions via online sites and communities, most of them not run by traditional educational institutions.</div>
+
+### Chapter 4 – What Makes a Good Project?
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1347
+
+<div class="noteText">say that students with a tinkering mindset and a space full of creative opportunities will create products, tackle problems, and devise intricate inquiry strategies as they tinker, make, and build.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1361
+
+<div class="noteText">In Papert’s theory of constructionism, the best way to construct knowledge or understanding is through the construction of something shareable, outside of a student’s head.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1364
+
+<div class="noteText">The Eight Elements of a Good Project 1\. Purpose and Relevance. Is the project personally meaningful? Does the project prompt intrigue in the learner enough to have him or her invest time, effort, and creativity in the development of the project? 2\. Time. Sufficient time must be provided for learners to think about, plan, execute, debug, change course, expand, and edit their projects. Class time affords students equal access to expertise and materials; projects may also need sufficient out-of-school time. 3\. Complexity. The best projects combine multiple subject areas and call upon the prior knowledge and expertise of each student. Best of all, serendipitous insights and connections to big ideas lead to the greatest payoff for learners. 4\. Intensity. Children have a remarkable capacity for intensity that is rarely tapped by the sliced-and-diced curriculum. Projects provide an outlet for the exercise of that intensity. Think about how long kids can spend mastering a video game, reading a favorite book series, memorizing the attributes of Pokemon, or building a tree house, and you have a good template for successful project-based learning. 5\. Connection. During great projects students are connected to each other, experts, multiple subject areas, powerful ideas, and the world via the Web. The lessons learned during interpersonal connections that are required by collaborative projects last a lifetime. While there is some merit in organizing student groups to “teach” collaboration, a teacher can hope to create a more natural environment in which students collaborate (or do not) based on their own needs. Collaboration may consist of observing a peer, asking a quick question, or by working with the same teammates for the duration of a project. 6\. Access. Students need access to a wide variety of concrete and digital materials anytime, anyplace. Personal student laptops make this possible, but we also need to think about the quality and quantity of craft materials, books, tools, hardware, software, and Internet access that allows learners to follow paths we may never have anticipated. When non-consumable materials are used, such as LEGO bricks, a sufficient quantity is necessary to ensure that students have everything they need for their projects and can leave the finished products together long enough for others to learn from them. The last thing you want is one student cannibalizing a classmate’s work during project creation. 7\. Shareability. This is the big idea of project-based learning! Students need to make something that is shareable with others. This provides a great deal of motivation, relevance, perspective making, reciprocal learning, and an authentic audience for the project. “A project is something you want to share” is a sufficient definition for learners of all ages. 8\. Novelty. Few project ideas are so profound that every child needs to engage in its development in every class, or year after year. Yes, that means that it may be time to rethink the annual marshmallow adobe project. If one student makes a fantastic discovery during a project, others can learn from it without slavishly repeating the steps of the pioneering student. In a healthy community of practice, learning continues and knowledge is shared naturally without coerced repetition.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1398
+
+<div class="noteText">The brilliant educators of Reggio Emilia, Italy, teach us that a well-designed, open-ended, learner-definable prompt is the best starting place for project-based learning.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1403
+
+<div class="noteText">too many school projects are based on problems unsolvable by students.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1408
+
+<div class="noteText">Asking kids to solve world peace is a dopey project idea because they cannot get their heads or arms around such ill-defined, infinitely complex problems.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1410
+
+<div class="noteText">Requiring students to assume the role of people with whom they share no life experience causes other problems. This is why conference panel discussions asking school students to invent the future of education leads to a stream of banalities and audience boredom.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1415
+
+<div class="noteText">When a project burns inside of them, students often exceed our expectations.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1423
+
+<div class="noteText">Computers allow students to explore powerful ideas and express themselves in a myriad of ways never before possible.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1426
+
+<div class="noteText">“If you can make things with computers, then you can make a lot more interesting things.”</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1433
+
+<div class="noteText">The best prompts fit on a Post-It! note.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1437
+
+<div class="noteText">The best projects push up against the persistence of reality. What is a B + poem or musical composition? How does an engineering project earn an 87? Most mindful work succeeds or fails. Students will want to do the best job possible when they care about their work and know that you put them ahead of a grade. If students are collaborating and regularly engaged in peer review or editing, then the judgment of an adult is really unnecessary. Worst of all, it is coercive and often punitive.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1455
+
+<div class="noteText">Keep things fresh by mixing up the prompts or challenges you give kids.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1469
+
+<div class="noteText">Two pioneers of project-based learning are Sylvia Chard and Lilian Katz, educators, professors, and authors who have devoted their careers to helping teachers understand what they call “The Project Approach” to teaching.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1488
+
+<div class="noteText">A learner can exceed expectations with the following four variables in place: A good prompt, motivating challenge, or thoughtful question Appropriate materials Sufficient time Supportive culture, including a range of expertise</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1511
+
+<div class="noteText">It takes four things to be able to teach based on the interests and aspirations of young learners: A strong knowledge of your curriculum and standards 2\. Flexibility 3\. Organization 4\. Resourcefulness</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1554
+
+<div class="noteText">Constructivist educators struggle with the perception that our kids can’t possibly compete with their peers in India or China when engaged in project-based learning. It is imperative for constructivist educators, therefore, to raise the bar, challenging their students to achieve a high standard of quality. The value of student projects at all levels needs to be demonstrably obvious even to the most casual observer.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1560
+
+<div class="noteText">Rather than concentrating on purpose, relevance, sufficient time, complexity, connections, access, shareability, or novelty, we are distracted by the technology, and the project suffers for it.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1563
+
+<div class="noteText">Artists, musicians, filmmakers, authors, poets, and crafts people do not set out to produce or consume content. They work tirelessly to draw, write, paint, film, compose, play, build, knit, sew, act, or direct to create personally meaningful objects, sights, sounds, or memories. In the rare instance, others will value such personal expression.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1566
+
+<div class="noteText">Teachers should embrace the aesthetic of an artist or critic and create opportunities for project development that strive to satisfy the following criteria. Ask if the project is: Beautiful Thoughtful Personally meaningful Sophisticated Shareable with a respect for the audience Moving Enduring</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1573
+
+<div class="noteText">Think about the sorts of projects that parents love and cherish. The best projects endure in the minds of students and on their parents’ refrigerator door.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1580
+
+<div class="noteText">While cuteness may be a desirable attribute of student projects, good is even more desirable.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1593
+
+<div class="noteText">Projects are what students remember long after the bell rings. Great teachers know that their highest calling is to make memories.</div>
+
+### Chapter 5 – Teaching
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1595
+
+<div class="noteText">I think it’s an exaggeration, but there’s a lot of truth in saying that when you go to school, the trauma is that you must stop learning and you must now accept being taught. —Seymour Papert</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1599
+
+<div class="noteText">Education policy often confuses teaching and learning. Learning is not the direct result of having been taught.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1629
+
+<div class="noteText">Educators are told that the mantra of Silicon Valley is “Fail early, fail often,” implying that what’s good for venture capitalists is good for kids. Failure is judgment. It is punitive and high-stakes.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1631
+
+<div class="noteText">The current failure fetish is more sloganeering than progress. It confuses iteration with failure, when in fact any iterative design cycle is about continuous improvement, keeping what works, and dealing with what doesn’t. This is learning, not failure.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1640
+
+<div class="noteText">The purpose of school should be to encourage children to develop such skills. Instead, we spend a lot of time telling children they are wrong, and then expecting them to accept that rejection and cheerfully try again.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1646
+
+<div class="noteText">Researchers have found what they call “the double-edged sword of pedagogy.” Instruction causes students to narrow the scope of exploration. Children given a toy and shown how to use it will “learn” how the toy works, but will not explore beyond what they are shown.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1657
+
+<div class="noteText">Constructionism is a theory of teaching. We believe that constructionism is the best way to implement constructivist learning.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1663
+
+<div class="noteText">The distinction between instructionism and constructionism is quite clear. If you believe that learning is the direct result of having been taught, then you are an instructionist. If you seek to “reform” education by buying a new textbook, administering a new test, or tweaking teacher practice, then you are an instructionist. Instructionists rely on a treatment model to explain learning. “I did X and they learned Y.” If only the transmission of knowledge worked so reliably.</div>
+
+#### Bookmark - Location 1685
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1696
+
+<div class="noteText">Eight Big Ideas Behind the Constructionist Learning Lab By Dr. Seymour Papert</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1757
+
+<div class="noteText">Talking should not be the primary work of teachers –learning about their students should be.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1759
+
+<div class="noteText">Teacher roles in a constructionist classroom may include: Ethnographer –Find out what children already know Documentarian –Collect evidence of learning that makes the invisible thinking of children visible Studio manager –Make appropriate tools, materials, and resources available so children can make their ideas come to life Wise leader –Guide children’s inquiry towards big ideas without coercion</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1770
+
+<div class="noteText">We urge you to use caution in how much time you spend talking about the design process with your students before you actually “do” the design process.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1786
+
+<div class="noteText">It’s tempting to take “just a minute” to show students every feature or menu option as you explain your final curricular objectives. However, information dumps are counterproductive in the long run.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1802
+
+<div class="noteText">Some programming classes begin with flowcharting or drawing logic diagrams. This may create a hurdle that may get in the way of students actually writing a program.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1817
+
+<div class="noteText">Allow students to solve problems their own way. Some students may find that talking to others helps. Some may need alone time. Some may need to get up and walk around the classroom to help get the “feel” of programming the onscreen action.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1838
+
+<div class="noteText">Students are quite skilled at figuring out what teachers want so they can get through their day as efficiently as possible. Coaching students out of this complacency will take time and will be a challenge. Take care that you are not telegraphing your expectations.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1870
+
+<div class="noteText">Mouth up frustration occurs when you get stuck while solving a problem or learning something you care about. Kids often smile during such tests of will and are ecstatic once they outsmart the temporary speed bump.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1897
+
+<div class="noteText">Gary has been known to say, “Assessment always interrupts the learning process.”</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1929
+
+<div class="noteText">Teaching is not testing. Deep learning is possible even when adults abandon prejudices about the outcome of a project.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1932
+
+<div class="noteText">Research suggests that teachers who use more progressive or project-based learning techniques are more satisfied in their roles than teachers who use traditional instructional techniques.</div>
+
+### Chapter 6 – Making Today
+
+#### Bookmark - Location 1935
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 1972
+
+<div class="noteText">Malik Bendjelloul, the director of the Academy Award winning documentary, “Searching for Sugar Man,” used a $ 1.99 iPhone app to simulate 8mm film when that film proved too costly. (CNN, 2013)</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 2020
+
+<div class="noteText">Leah Buechley, Director of the MIT Media Lab’s High-Low Tech research group, shares exciting work in embedding electronics and interactivity into paper, cloth, ceramics, and other household items.</div>
+
+### Chapter 7 – The Game Changers
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 2387
+
+<div class="noteText">Students quickly learned how to use the fabrication equipment, but once they learned how to make a simple object like a keychain, they would make endless versions of the same thing. The workshop became a keychain factory, and students would not engage in anything else. The plan worked too well –it backfired. Students found an activity that was personally meaningful, produced professional-looking products that were admired and envied, and used a high-tech device. However, as much as it was a very effective solution to engage them in digital fabrication, it offered a too big reward for a relatively small effort, to produce an object that did not include any computation or complex constructive challenges. Ironically, it is as if students had discovered exactly what manufacturing is about –mass-producing with little effort –and were making the best of it. Students “cracked” digital fabrication and were using the lab as a fabrication facility, rather than a place for invention. (Blikstein, 2013)</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 2429
+
+<div class="noteText">I told a mother today, “We give no grades in the Design Lab.” I think we dare not. Artists and architects and engineers, and for that matter, great writers like Hemingway and Tolkien and Austen learned their crafts and their artistry not from being graded —but from selfish, constant, almost obsessive trial and error.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 2530
+
+<div class="noteText">There is every reason to suspect that as 3D printing becomes more widespread in schools, you will start to hear sales pitches for products “designed for learning.” Be wary of such claims. Attempts will be made to turn 3D printing into a teaching technology. There will be claims that teachers can print out “learning objects” for students such as 3D models of the human skeleton, molecules, or historic buildings. There will be professional learning workshops where teachers will be taught how to use a 3D printer and given a list of how to integrate 3D objects into their classroom. These efforts should be banished from the building. 3D printing is a creative learning tool only in the hands of the learner.</div>
+
+#### Highlight(<span class="highlight_orange">orange</span>) - Location 2565
+
+<div class="noteText">Upton shared the sort of concerns we have expressed in this volume about a generation of young people becoming passive users of technology they neither understand nor control.</div>

@@ -4,6 +4,10 @@ permalink: /
 ---
 # Book Highlights
 
+## Project Summary
+
+A collection of my Amazon Kindle highlights.
+
 ## Paying the Price
 
 <div class="authors">Goldrick-Rab, Sara</div>

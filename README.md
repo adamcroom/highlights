@@ -4,7 +4,7 @@ permalink: /
 ---
 # Book Highlights
 
-## Paying the Price: College Costs, Financial Aid, and the Betrayal of the American Dream
+## Paying the Price
 
 <div class="authors">Goldrick-Rab, Sara</div>
 

@@ -2,8 +2,12 @@
 layout: default
 permalink: /
 ---
-# Section 1
-## One
-## Two
-## Three
-# Section 2
+# Book Highlights
+## Book One
+### Chapter 1
+### Chapter 2
+### Chapter 3
+## Book Two
+### Chapter 1
+### Chapter 2
+### Chapter 3
